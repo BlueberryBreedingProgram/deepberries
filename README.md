@@ -1,5 +1,5 @@
 # deepberries
-This is the web version of the Blueberry DeepFlavor Sensory Ballot.
+This is the web version of the Blueberry DeepFlavor Sensory Ballot. 
 
 The "DeepFlavor" tech stack has several components. "DeepBerries" is the Blueberry Panel Version of the Ballot.
 1. A Google Firebase Backend Service, which hosts user responses and generated image files.
@@ -14,7 +14,7 @@ The next step will be to create a friendly web UI for administorators to update 
 
 # For external Users
 For any other organizations who whish to use a version of this web app there are a few steps that need to be taken:
-1. Modify the questions in the dart source code as needed.
+1. Modify the questions in the dart source code as needed. Located in lib/
 2. Initialize your own Firebase server.
 3. Update the file "firebase_options.dart" with your firebase information.
 
