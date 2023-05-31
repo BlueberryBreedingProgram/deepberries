@@ -10,7 +10,7 @@ The "DeepFlavor" tech stack has several components. "DeepBerries" is the Blueber
 A sepreate repo for the backend code will be made availible here: 
 
 # Future Updates
-The next step will be to create a friendly web UI for administorators to update sample numbers, update questions, and easily download data. Additionally, to move all image and data processing to the cloud. 
+The next step will be to create a friendly web UI for admins to update sample numbers, update questions, and easily download data. Additionally, to move all image and data processing to the cloud. 
 
 # For external Users
 For any other organizations who whish to use a version of this web app there are a few steps that need to be taken:
